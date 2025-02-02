@@ -28,8 +28,8 @@ Currently:
 | Management        | 1       | 10.0.1.0/24    | 10.0.1.1      | Access to pfSense web interface (https://10.0.1.50/) |
 | Corporate WAN     | 10      | 10.0.10.0/24   | 10.0.10.254   | Simulated external network      |
 | Corporate LAN     | 20      | 10.0.20.0/24   | 10.0.20.254   | Internal corporate network      |
-| Security          | 50      | 10.0.50.0/24   | 10.0.50.254   | Security team network           |
-| Isolation LAN     | 99      | 10.0.99.0/24   | 10.0.99.254   | Isolated malware analysis       |
+| Security          | 50      | 10.0.50.0/24   | 10.0.50.254   | Security network                |
+| Isolation LAN     | 99      | 10.0.99.0/24   | 10.0.99.254   | Isolated LAN                    |
 
 ---
 
