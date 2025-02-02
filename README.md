@@ -60,7 +60,7 @@ Lan Interface (Management):
 | 1      | 10.0.20.0/24    | 10.0.20.0/24    | Any      | Allow  | Allow traffic within VLAN 20    |
 | 2      | 10.0.20.0/24    | 10.0.10.0/24    | Any      | Allow  | Allow traffic to Corporate WAN  |
 
-## Security (VLAN 50)
+### Security (VLAN 50)
 
 | Rule # | Source          | Destination     | Protocol | Action | Description                     |
 |--------|-----------------|-----------------|----------|--------|---------------------------------|
@@ -69,13 +69,19 @@ Lan Interface (Management):
 | 3      | 10.0.50.0/24    | 10.0.10.0/24    | Any      | Block  | Block traffic towards Corporate WAN       |
 | 4      | 10.0.50.0/24    | Any             | Any      | Allow  | Allow traffic anywhere else       |
 
-## Isolated VLAN
+### Isolated VLAN
 
 | Rule # | Source          | Destination     | Protocol | Action | Description                     |
 |--------|-----------------|-----------------|----------|--------|---------------------------------|
 | 1      | 10.0.99.0/24    | 10.0.99.0/24    | Any      | Allow  | Allow traffic within Isolated VLAN       |
 | 2      | 10.0.99.0/24    | 10.0.99.0/24    | Any      | Block  | Block all other traffic       |
 
+---
 
-*Network Diagram*
+## Network Diagram
+
+![Rough Network Diagram](https://imgur.com/a/08F7HKr)
+
+---
+
 
