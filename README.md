@@ -36,11 +36,13 @@ Currently:
 
 ## pfSense Configuration
 
-Wan Interface: 
+Default installation for everything.
+
+WAN Interface: 
 - **IPv4 Address:** `192.168.x.100/24`
 - **Gateway:** `192.168.xxx.xxx` *(ISP modem/router)*
 
-Lan Interface (Management):
+LAN Interface (Management):
 - **IPv4 Address:** `10.0.1.1/24`
 
 ---
