@@ -18,6 +18,7 @@ Currently:
 
 - pfSense for firewall configuration and network segmentation
 
+
 # Part 1 - Network Topology
 
 ## VLANs, Subnets, and Firewall
