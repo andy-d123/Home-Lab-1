@@ -80,7 +80,7 @@ Lan Interface (Management):
 
 ## Network Diagram
 
-![Rough Network Diagram](https://imgur.com/a/08F7HKr.png)
+![Rough Network Diagram](https://i.imgur.com/StlAbmO.png)
 
 ---
 
