@@ -1,4 +1,4 @@
-# Homelab
+# Home Lab
 
 ## Objective
 
@@ -80,7 +80,7 @@ Lan Interface (Management):
 
 ## Rough Network Topology
 
-![Rough Network Diagram](https://i.imgur.com/StlAbmO.png)
+<img src="https://i.imgur.com/StlAbmO.png" alt="Alt Text" width="600" height = "350">
 
 ---
 
