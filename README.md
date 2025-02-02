@@ -80,7 +80,7 @@ Lan Interface (Management):
 
 ## Rough Network Topology
 
-<img src="https://i.imgur.com/StlAbmO.png" alt="Alt Text" width="600" height = "350">
+<img src="https://i.imgur.com/imwlDqF.png" alt="Alt Text" width="600" height = "350">
 
 ---
 
