@@ -20,7 +20,7 @@ Currently:
 
 ---
 
-# Part 1 - Network Topology
+## Part 1 - Network Topology
 
 ## VLANs, Subnets, and Firewall
 
