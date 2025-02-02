@@ -78,7 +78,7 @@ Lan Interface (Management):
 
 ---
 
-## Network Diagram
+## Rough Network Topology
 
 ![Rough Network Diagram](https://i.imgur.com/StlAbmO.png)
 
